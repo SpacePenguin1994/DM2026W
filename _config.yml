@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 离散数学
-tagline: 《离散数学》2025秋季学期
-description: 上海师范大学《离散数学》(080931104261.01)
+tagline: 《离散数学》2026秋季学期
+description: 上海师范大学《离散数学》(080931104261.03)
 author: 杨启哲
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://www.dm2025w.spacepenguin.com.cn' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://www.dm2026w.spacepenguin.com.cn' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings

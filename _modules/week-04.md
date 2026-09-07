@@ -1,3 +1,4 @@
+<!-->
 ---
 title: 往年试卷参考
 ---
@@ -7,3 +8,5 @@ title: 往年试卷参考
 
 2024W
 :  [Exam A](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/homework/DM2024W-EXAM-A-noanswer.pdf) [Exam B](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/homework/DM2024W-EXAM-B-noanswer.pdf)
+
+<-->

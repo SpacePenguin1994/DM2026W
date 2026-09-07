@@ -1,7 +1,7 @@
 ---
 title: 课程课件
 ---
-
+<!-->
 Lec 0
 : **概览(Overview)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/slides/DMLec0-handout.pdf)\]
@@ -69,3 +69,5 @@ Lec 12
 Lec 13
 : **复习(Review)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2025w/slides/DMLec13-handout.pdf)\]
+
+  <-->
