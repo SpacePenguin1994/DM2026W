@@ -20,6 +20,15 @@ Lec 3
 : **命题逻辑(III)(Proposition Logic(III))**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/slides/DMLec3-handout.pdf)\]
   
+Lec 4
+: **一阶逻辑(I)(Fisrt Order Logic(I))**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/slides/DMLec4-handout.pdf)\]
+
+Lec 5
+: **一阶逻辑(II)(First Order Logic(II))**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/slides/DMLec5-handout.pdf)\]
+
+
 <!-->
 Lec 0
 : **概览(Overview)**
