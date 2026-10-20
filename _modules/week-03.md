@@ -12,3 +12,6 @@ HW 1
 
 HW 2
 : **HW**{: .label .label-red }Released:[Homework #2-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/homework/DM-homework-2-solution.pdf)  
+
+HW 3
+: **HW**{: .label .label-red }Released:[Homework #3-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/homework/DM-homework-3-solution.pdf)  

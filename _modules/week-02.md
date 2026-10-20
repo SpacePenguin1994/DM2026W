@@ -13,3 +13,7 @@ HW 2
 HW 3
 :  **HW**{: .label .label-red }Released: [Homework #3-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/homework/DM-homework-3-noblank.pdf) &nbsp; [Homework #3-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/homework/DM-homework-3-blank.pdf)
 :  **DUE**{: .label .label-yellow} Oct 19 11:59 PM
+
+HW 4
+:  **HW**{: .label .label-red }Released: [Homework #4-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/homework/DM-homework-4-noblank.pdf) &nbsp; [Homework #4-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/homework/DM-homework-4-blank.pdf)
+:  **DUE**{: .label .label-yellow} Oct 26 11:59 PM
