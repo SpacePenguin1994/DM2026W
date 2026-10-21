@@ -29,6 +29,14 @@ Lec 5
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/slides/DMLec5-handout.pdf)\]
 
 
+集合论部分：
+
+Lec 6
+: **集合论(Set Theory)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/slides/DMLec6-handout.pdf)\]
+
+
+
 <!-->
 Lec 0
 : **概览(Overview)**
