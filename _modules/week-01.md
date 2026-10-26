@@ -35,7 +35,9 @@ Lec 6
 : **集合论(Set Theory)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/slides/DMLec6-handout.pdf)\]
 
-
+Lec 7
+: **关系(Relation)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/slides/DMLec7-handout.pdf)\]
 
 <!-->
 Lec 0
