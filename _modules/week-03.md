@@ -18,3 +18,7 @@ HW 3
 
 HW 4
 : **HW**{: .label .label-red }Released:[Homework #4-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/homework/DM-homework-4-solution.pdf)  
+
+
+HW 5
+: **HW**{: .label .label-red }Released:[Homework #5-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/homework/DM-homework-5-solution.pdf)  
