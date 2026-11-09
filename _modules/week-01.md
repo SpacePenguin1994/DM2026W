@@ -39,10 +39,15 @@ Lec 7
 : **关系(Relation)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/slides/DMLec7-handout.pdf)\]
 
+Lec 8
+: **函数(Function)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/slides/DMLec8-handout.pdf)\]
+
 <!-->
 Lec 0
 : **概览(Overview)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2026w/slides/DMLec0-handout.pdf)\]
+
 
 
 数理逻辑部分：
